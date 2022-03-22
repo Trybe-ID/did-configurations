@@ -1,6 +1,6 @@
 {
   "@context":"https://w3id.org/did/v1",
-  "id":"did:web:kms.trybe.id",
+  "id":"did:web:dids.staging.convergence.tech",
   "publicKey":[
     {
       "id":"did:web:kms.trybe.id#z6MkfS7HKpQv3CRd9xcCB2uVMPd5B7R6tUVDFvhzHwehQeCL",
